@@ -4,16 +4,21 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/data-graphic-animation.gif">
 
 
-- 🔭 I’m currently working on **Mastering my data skills**
+- 🔭 I’m currently working on **Mastering my data skills: SQL, Power BI, Tableau**
 
-- 🌱 I’m currently Mastering **SQL, Power BI, Tableau**
+- 🏅 Courses Completed
  
-  - 🏅 Udemy: Microsoft Power BI Desktop for Business Intelligence
-  - 🏅 LinkedIn Learning: Mastering Pivot Tables and PivotCharts   
-  - 🏅 LinkedIn Learning: Statistics Foundation 1  
-  - 🏅 Google Data Analytics Professional Certificate   
-  - 🏅 Scrum.org: Professional Scrum Master (PSM I)   
-    
+  - Udemy: Microsoft Power BI Desktop for Business Intelligence
+  - LinkedIn Learning: Mastering Pivot Tables and PivotCharts   
+  - LinkedIn Learning: Statistics Foundation 1  
+  - Google Data Analytics Professional Certificate   
+  - Scrum.org: Professional Scrum Master (PSM I)   
+
+- :construction: Courses In Progress
+
+  - Udemy: Advanced SQL: MySQL Data Analysis & Business Intelligence
+  - Udemy: Tableau Desktop for Data Analysis & Data Visualization
+
 - 📫 How to reach me **cristina.r.vicente@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
