@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Extracting Insights From Data</h3>
 <img align="right" alt="Coding" width="400" src="http://www.agileit.com/wp-content/uploads/2016/07/analytics-reports.gif">
 
-- 🔭 I’m currently working on **Creating my Portfolio**
+- 🔭 I’m currently working on **Mastering my data skills**
 
 - 🌱 I’m currently learning **SQL, Power BI, Tableau**
 
