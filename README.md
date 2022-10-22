@@ -14,10 +14,6 @@
   - Google Data Analytics Professional Certificate   
   - Scrum.org: Professional Scrum Master (PSM I)   
 
-- :construction: Courses In Progress
-
-  - Udemy: Advanced SQL: MySQL Data Analysis & Business Intelligence
-  - Udemy: Tableau Desktop for Data Analysis & Data Visualization
 
 - 📫 How to reach me **cristina.r.vicente@gmail.com**
 
